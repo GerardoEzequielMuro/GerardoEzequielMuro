@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GerardoEzequielMuro
 - 👀 I’m interested in programing and learn
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gerardoezequielmuro@gmail.com
 
